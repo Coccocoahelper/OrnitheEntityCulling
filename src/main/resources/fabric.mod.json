@@ -3,7 +3,7 @@
 	"id": "entityculling",
 	"version": "${version}",
 	"name": "Entity Culling",
-	"description": "Entity culling/batching based on Patcher's code.",
+	"description": "Entity culling based on Patcher's code.",
 	"authors": [
     	"Sk1er & Patcher developers",
     	"Mixces"

@@ -5,15 +5,12 @@
   "compatibilityLevel": "JAVA_8",
   "client": [
     "BlockEntityRenderDispatcherMixin",
-    "BufferBuilderAccessor",
     "DebugOverlayMixin",
     "EntityRenderDispatcherMixin",
     "EntityRendererAccessor",
     "GameRendererMixin",
     "LivingEntityRendererMixin",
     "MinecraftMixin",
-    "ModelPartMixin",
-    "QuadMixin",
     "RenderChunkMixin"
   ],
   "server": [
